@@ -7,4 +7,6 @@ To sum it up:
 * Spring Boot project with MVC module.
 * Has a default Spring Boot .gitignore file.
 * Shows basic MVC with JSP.
-* Shows basic configuration with use of application.properties.
+* Shows a basic configuration example with use of application.properties.
+* Example with @PostMapping.
+* Example with @GetMapping.
